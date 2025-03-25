@@ -5,10 +5,10 @@ An interactive **Exploratory Data Analysis (EDA) dashboard** built using **Strea
 
 Features  
 
--  File Upload:** Upload CSV, TXT, XLSX, or XLS files for analysis.  
--  Date Filtering:** Select a custom date range for analysis.  
+-  File Upload:Upload CSV, TXT, XLSX, or XLS files for analysis.  
+-  Date Filtering:Select a custom date range for analysis.  
 -  Region, State & City Filtering:** Drill down into sales data by location.  
--  Visualizations:**  
+-  Visualizations: 
   - **Category-wise Sales** (Bar Chart)  
   - **Region-wise Sales** (Pie Chart)  
   - **Hierarchical Sales View** (Treemap)  
